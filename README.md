@@ -3,7 +3,6 @@ Welcome to my portfolio, get to know a little bit about me, see what I've been u
 
 **Link to project:** https://kevinaristhomene.com/
 
-![alt tag](http://placecorgi.com/1200/650)
 
 ## How It's Made:
 

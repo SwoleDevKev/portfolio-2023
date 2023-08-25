@@ -130,7 +130,7 @@
 		document.querySelector('#balloonPic').addEventListener('mouseover', picToGif)
 
 		function picToGif () {
-			if (document.querySelector('#balloonPic').src == 'file:///Users/swoledev/Downloads/urban/images/balloons-website-poster.jpg') {
+			if (document.querySelector('#balloonPic').src == 'https://kevinaristhomene.com/images/balloons-website-poster.jpg') {
 				document.querySelector('#balloonPic').src = 'images/balloons-website.gif'
 			} else {
 				document.querySelector('#balloonPic').src = 'images/balloons-website-poster.jpg'
@@ -140,7 +140,7 @@
 		document.querySelector('#topshotPic').addEventListener('mouseover', picToGif2)
 
 		function picToGif2 () {
-			if (document.querySelector('#topshotPic').src == 'file:///Users/swoledev/Downloads/urban/images/topshot-website-poster.jpg') {
+			if (document.querySelector('#topshotPic').src == 'https://kevinaristhomene.com/images/topshot-website-poster.jpg') {
 				document.querySelector('#topshotPic').src = 'images/topshotfiles-website.gif'
 			} else {
 				document.querySelector('#topshotPic').src = 'images/topshot-website-poster.jpg'
